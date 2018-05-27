@@ -35,7 +35,7 @@ h3 { /* Header 3 */
 
 # El número de Barcos es Apropiado
 
-Dada lo largo de la temporada, tener **60 barcos** nos deja con la cantidad **Sustentable** de pescado. 
+Dada lo largo de la temporada, tener **Barcos Sin Restricción** nos deja con la cantidad **Sustentable** de pescado. 
 Los peces se logran **Reproducir** y podemos comer pescado en el **Futuro** . Puedes encontrar otras combinaciones que son **Sustentables**? 
 
 ### Space

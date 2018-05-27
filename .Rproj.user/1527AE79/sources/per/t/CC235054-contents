@@ -16,10 +16,10 @@ h3 { /* Header 3 */
 }
 </style>
 
-# El número de Barcos es Apropiado
+# La Temporada de Pesca es Apropiada
 
-Dada lo largo de la temporada, tener **Barcos Sin Restricción** nos deja con la cantidad **Sustentable** de pescado. 
-Los peces se logran **Reproducir** y podemos comer pescado en el **Futuro** . Puedes encontrar otras combinaciones que son **Sustentables**? 
+Dados los barcos que tenemos, una temporada de **10 días** nos deja con la cantidad **Sustentable** de pescado.
+Los peces se logran **Reproducir** y podemos comer pescado en el **Futuro**. Puedes encontrar otras combinaciones que son **Sustentables**?
 
 ### Space
 ### Space
